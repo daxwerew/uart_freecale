@@ -1,6 +1,6 @@
 <Analysispoints>
 	<Name>AnalysispointsManager</Name>
-	<ProjectPath>C:/Documents and Settings/Administrador/Mis documentos/Downloads/FRDM-KL25Z-UART/FRDM-KL25Z-UART/SaAnalysispointsManager.apconfig</ProjectPath>
+	<ProjectPath>C:/Documents and Settings/Administrador/Escritorio/Dropbox/2014A/Sistemas Embebidos (Continental)/FRDM-KL25Z-UART/FRDM-KL25Z-UART/SaAnalysispointsManager.apconfig</ProjectPath>
 	<MaxNumberOfCores>1</MaxNumberOfCores>
 	<Comments>Analysispoints Manager</Comments>
 	<IgnoreAll>false</IgnoreAll>
